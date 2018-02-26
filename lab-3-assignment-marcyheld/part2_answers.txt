@@ -1,0 +1,14 @@
+Answers to Part 2
+
+1. Calculate how many web sites start with ‘http:’ are in littlebrother.txt.
+40 websites
+
+
+2. Calculate how many words in littlebrother.txt have a number in them (examples: 68, 6A, word2).
+341 words have a number in them.
+
+
+3. Calculate how many numbers are in littlebrother.txt (Don't count words that have any symbols that are not digits. 456 is good, but 786-3452 and 6A would not count)
+
+
+4. Calculate how many words in littlebrother.txt have at least one digit and at least one letter (examples: 63A, word26).

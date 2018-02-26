@@ -1,0 +1,15 @@
+Answers to Part 1
+
+1. How many words end in the letter ‘a’?
+898 words end in the letter 'a'.
+
+
+2. The regex [aeiou]$ indicates there are 6988 words that end with a vowel. How many words start and end with a vowel?
+1655 words start and end with a vowel.
+
+
+3. How many words start and end with the same vowel? Extreme and aorta are two such words.
+398 words start and end with the same vowel.
+
+4. The words obsequious and pharmacopoeia each contain four vowels in a row. How many words contain four consecutive vowels?
+19 words contain four consecutive vowels.
